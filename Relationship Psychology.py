@@ -16,15 +16,20 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
-"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
-"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
-"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
-"Cheat Exposed"
+ "Psychology Marian Rojas Estapé", "Emotional Intelligence Psychology", "Brain and Emotions", "Modern Psychology",
+ "Stress Psychology", "Anxiety Explained Psychology", "Mental Health Awareness", "Neuroscience Simplified",
+ "Dopamine Addiction", "Cortisol Stress Hormone", "Emotional Healing Psychology", "Mental Strength Psychology",
+ "Overthinking Psychology", "Negative Thoughts Cycle", "Inner Child Healing", "Emotional Trauma Psychology",
+ "Attachment Styles Psychology", "Toxic Relationships Psychology", "Emotional Dependency",
+ "Why Relationships Fail", "Modern Relationships Crisis", "Fear of Abandonment Psychology",
+ "Self Worth Psychology", "Low Self Esteem", "People Pleasing Psychology", "Identity Crisis Psychology",
+ "Chosen Solitude Psychology", "Loneliness vs Solitude", "Why Being Alone Feels Peaceful",
+ "Emotional Independence", "Silent Strength Psychology", "Introvert Brain Psychology",
+ "Burnout Psychology", "Emotional Exhaustion", "Mental Fatigue", "Digital Burnout",
+ "Modern Life Stress", "Overstimulated Nervous System", "Why Life Feels Empty",
+ "Thought Patterns Psychology", "Inner Dialogue", "Mind Sabotage Psychology",
+ "Cognitive Distortions", "Rewire Your Brain", "Mindfulness Neuroscience"
 ]
-
 # Fetch Data Button
 if st.button("Fetch Data"):
     try:
