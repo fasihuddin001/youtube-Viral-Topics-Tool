@@ -16,19 +16,15 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Psychology Marian Rojas Estapé", "Emotional Intelligence Psychology", "Brain and Emotions", "Modern Psychology",
- "Stress Psychology", "Anxiety Explained Psychology", "Mental Health Awareness", "Neuroscience Simplified",
- "Dopamine Addiction", "Cortisol Stress Hormone", "Emotional Healing Psychology", "Mental Strength Psychology",
- "Overthinking Psychology", "Negative Thoughts Cycle", "Inner Child Healing", "Emotional Trauma Psychology",
- "Attachment Styles Psychology", "Toxic Relationships Psychology", "Emotional Dependency",
- "Why Relationships Fail", "Modern Relationships Crisis", "Fear of Abandonment Psychology",
- "Self Worth Psychology", "Low Self Esteem", "People Pleasing Psychology", "Identity Crisis Psychology",
- "Chosen Solitude Psychology", "Loneliness vs Solitude", "Why Being Alone Feels Peaceful",
- "Emotional Independence", "Silent Strength Psychology", "Introvert Brain Psychology",
- "Burnout Psychology", "Emotional Exhaustion", "Mental Fatigue", "Digital Burnout",
- "Modern Life Stress", "Overstimulated Nervous System", "Why Life Feels Empty",
- "Thought Patterns Psychology", "Inner Dialogue", "Mind Sabotage Psychology",
- "Cognitive Distortions", "Rewire Your Brain", "Mindfulness Neuroscience"
+ "Despierta Tu Esencia", "Crecimiento Personal", "Desarrollo Emocional", "Conectar Con Tu Esencia",
+ "Autoestima y Confianza", "Reflexión Interior", "Paz Interior", "Sanación Emocional",
+ "Conciencia Plena", "Autoconocimiento", "Inteligencia Emocional", "Mindfulness para Mujeres",
+ "Habilidades Sociales", "Conversaciones Poderosas", "Vida Consciente", "Crecer Interiormente",
+ "Fortalecer la Autoestima", "Liberarse del Miedo", "Meditación y Calma", "Vivir Auténtico",
+ "Equilibrio Emocional", "Motivación y Reflexión", "Transformación Personal", "Cuidado Emocional",
+ "Romper Creencias Limitantes", "Aceptación Personal", "Ser y Existir", "Vida con Propósito",
+ "Romper Patrones Tóxicos", "Amor Propio", "Sanar el Corazón", "Mentalidad Positiva",
+ "Rutinas de Bienestar", "Hábitos de Felicidad", "Paz Mental Hoy", "Conciencia de Ser"
 ]
 
 # Fetch Data Button
