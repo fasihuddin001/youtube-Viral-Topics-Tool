@@ -16,10 +16,19 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
-"Psychology Marriage", "Healthy Relationship Psychology", "Open Marriage", "Open Relationship", " Marian Rojas Estapé ", 
-"Emotional Trauma Psychology", "Healing After Toxic Relationship", "Exposed Toxic Partner", "X Partner Emotional Manipulation", 
-"X Partner Toxic Behavior"
+ "Psychology Marian Rojas Estapé", "Emotional Intelligence Psychology", "Brain and Emotions", "Modern Psychology",
+ "Stress Psychology", "Anxiety Explained Psychology", "Mental Health Awareness", "Neuroscience Simplified",
+ "Dopamine Addiction", "Cortisol Stress Hormone", "Emotional Healing Psychology", "Mental Strength Psychology",
+ "Overthinking Psychology", "Negative Thoughts Cycle", "Inner Child Healing", "Emotional Trauma Psychology",
+ "Attachment Styles Psychology", "Toxic Relationships Psychology", "Emotional Dependency",
+ "Why Relationships Fail", "Modern Relationships Crisis", "Fear of Abandonment Psychology",
+ "Self Worth Psychology", "Low Self Esteem", "People Pleasing Psychology", "Identity Crisis Psychology",
+ "Chosen Solitude Psychology", "Loneliness vs Solitude", "Why Being Alone Feels Peaceful",
+ "Emotional Independence", "Silent Strength Psychology", "Introvert Brain Psychology",
+ "Burnout Psychology", "Emotional Exhaustion", "Mental Fatigue", "Digital Burnout",
+ "Modern Life Stress", "Overstimulated Nervous System", "Why Life Feels Empty",
+ "Thought Patterns Psychology", "Inner Dialogue", "Mind Sabotage Psychology",
+ "Cognitive Distortions", "Rewire Your Brain", "Mindfulness Neuroscience"
 ]
 
 # Fetch Data Button
