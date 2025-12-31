@@ -19,10 +19,7 @@ keywords = [
  "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
 "Psychology Marriage", "Healthy Relationship Psychology", "Open Marriage", "Open Relationship", " Marian Rojas Estapé ", 
 "Emotional Trauma Psychology", "Healing After Toxic Relationship", "Exposed Toxic Partner", "X Partner Emotional Manipulation", 
-"X Partner Toxic Behavior", "Cheating Story Real", "True Cheating Story", 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
-"Cheat Exposed"
+"X Partner Toxic Behavior"
 ]
 
 # Fetch Data Button
