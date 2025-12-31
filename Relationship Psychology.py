@@ -16,15 +16,13 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Despierta Tu Esencia", "Crecimiento Personal", "Desarrollo Emocional", "Conectar Con Tu Esencia",
- "Autoestima y Confianza", "Reflexión Interior", "Paz Interior", "Sanación Emocional",
- "Conciencia Plena", "Autoconocimiento", "Inteligencia Emocional", "Mindfulness para Mujeres",
- "Habilidades Sociales", "Conversaciones Poderosas", "Vida Consciente", "Crecer Interiormente",
- "Fortalecer la Autoestima", "Liberarse del Miedo", "Meditación y Calma", "Vivir Auténtico",
- "Equilibrio Emocional", "Motivación y Reflexión", "Transformación Personal", "Cuidado Emocional",
- "Romper Creencias Limitantes", "Aceptación Personal", "Ser y Existir", "Vida con Propósito",
- "Romper Patrones Tóxicos", "Amor Propio", "Sanar el Corazón", "Mentalidad Positiva",
- "Rutinas de Bienestar", "Hábitos de Felicidad", "Paz Mental Hoy", "Conciencia de Ser"
+ "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
+"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
+"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
+"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
+"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
+"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
+"Cheat Exposed"
 ]
 
 # Fetch Data Button
